@@ -11,15 +11,27 @@
 ![Backlog View](./docs/screenshots/backlog.png)
 *Managing the personal collection with filtered views.*
 
-## ✨ Features
+## ✨ Key Features
 
-- **Personal Library**: Manage your games across different statuses (Playing, Completed, Paused, etc.).
-- **Smart Filtering**: Filter your collection by genre and platform.
-- **HLTB Integration**: Track "Main Story" durations with manual overrides for precision.
-- **Discovery**: Explore trending titles, best games of the year, and upcoming releases.
-- **Curated Lists**: Discover best-in-class games through hand-picked categories.
-- **Premium UI**: Dark mode glassmorphism design with smooth animations and responsive layout.
-- **Local Persistence**: All data is stored locally in your browser.
+### 📚 Intelligent Library Management
+- **Personal Backlog**: Organize your collection by status: *Playing, Beaten, Completed, Shelved,* or *Abandoned*.
+- **Smart Filtering**: Instantly filter your library by **Genre** (RPG, Action, Indie...) or **Platform** (PC, PS5, Switch...).
+- **Console Exclusives**: Configure your owned platforms to see only relevant games.
+
+### ⏱️ HowLongToBeat Integration
+- **Playtime Tracking**: Automatically fetches "Main Story" duration data for every game.
+- **Time Sorting**: Sort your backlog by shortest/longest playtime to decide what to play next based on your free time.
+- **Manual Override**: "Verified" mode allows you to correct HLTB data with your own completion times.
+
+### 🔍 Discovery & Search
+- **Trending & Upcoming**: Explore what's hot right now and what's coming in 2025.
+- **Curated Lists**: Access "Best of All Time" lists by genre (RPGs, Action, Strategy...).
+- **Instant Search**: Find any game in the massive RAWG database with a debounced, high-performance search bar.
+
+### 🎨 Premium User Experience
+- **Glassmorphism Design**: A modern, dark-themed UI with translucent cards and blurry backdrops.
+- **Responsive**: Fully optimized for Desktop, Tablet, and Mobile.
+- **Local Privacy**: All data is stored in your browser's `LocalStorage`. No external database required.
 
 ## 🚀 Getting Started
 
